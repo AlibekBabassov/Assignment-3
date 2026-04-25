@@ -6,6 +6,7 @@ A. Project Overview:
 -Bubble Sort — a simple comparison-based algorithm
 -Merge Sort — an efficient divide-and-conquer algorithm
 -Linear Search — a straightforward sequential scan
+
 The purpose of the experiment is to measure and compare real execution times across different array sizes and input types and to validate whether practical performance matches theoretical Big-O complexity.
 B. Algorithm Descriptions:
 1. Bubble Sort — O(n²) Bubble Sort works by repeatedly scanning the array and swapping adjacent elements that are out of order. Each full pass guarantees the largest unsorted element "bubbles up" to its correct position at the end. The process repeats until no swaps are needed.
