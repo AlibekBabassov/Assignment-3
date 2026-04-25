@@ -24,7 +24,9 @@ C. Experimental Results:
 
 Times measured in nanoseconds using System.nanoTime().
 
+
 Small Array (10 elements)
+
 
 Algorithm | Random Array | Sorted Array
 
@@ -34,7 +36,9 @@ Merge Sort | ~5,000 ns | ~4,200 ns
 
 Linear Search | ~300 ns | ~250 ns
 
+
 Medium Array (100 elements)
+
 
 Algorithm | Random Array | Sorted Array
 
@@ -44,7 +48,9 @@ Merge Sort | ~18,000 ns | ~15,000 ns
 
 Linear Search | ~1200 ns | ~800 ns
 
+
 Large Array (1000 elements)
+
 
 Algorithm | Random Array | Sorted Array
 
