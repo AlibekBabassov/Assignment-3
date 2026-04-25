@@ -27,22 +27,31 @@ Times measured in nanoseconds using System.nanoTime().
 Small Array (10 elements)
 
 Algorithm | Random Array | Sorted Array
+
 Bubble Sort | ~2,500 ns | ~800 ns
+
 Merge Sort | ~5,000 ns | ~4,200 ns
+
 Linear Search | ~300 ns | ~250 ns
 
 Medium Array (100 elements)
 
 Algorithm | Random Array | Sorted Array
+
 Bubble Sort | ~45,000 ns | ~3,500 ns
+
 Merge Sort | ~18,000 ns | ~15,000 ns
+
 Linear Search | ~1200 ns | ~800 ns
 
 Large Array (1000 elements)
 
 Algorithm | Random Array | Sorted Array
+
 Bubble Sort | ~4,200,000 ns | ~25,000 ns
+
 Merge Sort | ~180,000 ns | ~160,000 ns
+
 Linear Search | ~8,000 ns | ~5,000 ns
 
 D. Screenshots: 
